@@ -4,4 +4,8 @@
 
 #Radu a modificat
 
-#Ceva cod malefic care nu merge
+#Conflict
+#am modificat Radu aici
+
+#Modificarea a reusit
+
